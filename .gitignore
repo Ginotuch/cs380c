@@ -53,3 +53,9 @@ dkms.conf
 
 #jetbrains
 .idea
+
+#cmake
+cmake-build-debug
+
+#misc
+desktop.ini
